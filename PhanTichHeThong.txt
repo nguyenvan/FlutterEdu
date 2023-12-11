@@ -1,0 +1,50 @@
+Hệ thống 
+	- Trung tâm
+		- Giáo viên
+		- Khóa học
+		- Học sinh	
+		- Thống kê 
+		- Thông báo
+	- Giáo viên
+		- Lịch dạy
+		- Đánh giá trung tâm
+		- Thông báo
+	- Học sinh
+		- Xem lịch học
+		- Thông báo giờ đi học và giờ về
+		- Thông báo lịch nộp tiền học
+		- Tìm kiếm nơi học thêm
+		- Đánh giá
+		- Thông báo
+		- Xin nghỉ
+	
+
+-Register page :  Khi đăng ký thì sẽ có các loại
+	- Trung tâm
+		- Tên trung tâm
+		- Người phụ trách
+		- Số điện thoại
+		- Địa chỉ
+		- Môn dạy
+		- Mật khẩu
+	- Giáo viên của trung tâm
+		- Tên
+		- Số điện thoại
+		- Mã trung tâm
+		- Mật khẩu
+	- Học sinh
+		- Tên
+		- Số điện thoại
+		- Mật khẩu
+	
+-Login page : 
+		
+-Dashboard :
+	- Trung tâm: 
+		- Biểu đồ học sinh đăng ký mới
+		- Doanh thu hằng tháng
+		- Học viên chưa đóng học phí
+	- Giáo viên
+		- Lịch dạy học
+	- Học sinh	
+		- Lich học
