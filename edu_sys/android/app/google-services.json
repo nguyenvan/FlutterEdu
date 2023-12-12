@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505200240062",
+    "project_id": "fir-firestore-b2890",
+    "storage_bucket": "fir-firestore-b2890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505200240062:android:d20be5b647d117a45f85ef",
+        "android_client_info": {
+          "package_name": "com.example.edu_sys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505200240062-ndfeiimg76crtvmle2u5vuhbe1nhcseq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjZ-FhFlC-X8nQxtA7laN7W8OhRFUgcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505200240062-ndfeiimg76crtvmle2u5vuhbe1nhcseq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
